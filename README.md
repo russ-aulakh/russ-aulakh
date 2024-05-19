@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Russ</h1>
-<h3 align="center">A Software Engineer Crafting Solutions for Real World Problems</h3>
+<h3 align="center">I am a Software Engineer solving real problems for real people.</h3>
 
 # 💫 About Me:
-I'm a passionate Software Engineer, currently focused on enhancing the capabilities of [Flymile.pro](https://www.flymile.pro/), a platform designed to revolutionize travel through the smart use of credit card points. I'm also deepening my knowledge in **Go, TensorFlow, and Ethical AI**.
+I'm a passionate Software Engineer, currently focused on enhancing the capabilities of [Flymile.pro](https://www.flymile.pro/), a platform designed to revolutionize travel through the smart use of credit card points. I'm enhancing my skills through projects like [Concordia.courses](https://concordia.courses/).
 
 ## 🚀 What I'm Up To
 

@@ -9,7 +9,7 @@ I'm a passionate Software Engineer, currently focused on enhancing the capabilit
 - 🌱 I’m expanding my expertise in **Go, TensorFlow, and Ethical AI**.
 - 🔭 I’m currently enhancing [Flymile.pro](https://www.flymile.pro/) to revolutionize travel with credit card points.
 - 👯 I'm collaborating on enriching educational content at [Concordia.courses](https://concordia.courses/).
-- 💼 Explore all my projects here: [My Portfolio](https://www.flymile.pro/)
+- 💼 Explore all my projects here: [My Portfolio](https://www.russ-aulakh.com/)
 
 ## 🎓 More About Me
 
@@ -18,7 +18,7 @@ I love discussing and sharing insights on:
 
 📫 How to reach me: **s_ravide@live.concordia.ca**
 
-📄 Know about my professional journey: [My Resume](https://drive.google.com/file/d/15BgoXdbOZIdWHaTG2oTMrHCsmhpYYi0G/view?usp=sharing)
+📄 Know about my professional journey: [My Resume](https://drive.google.com/file/d/1_uxJTHkpA-r9aTWhLtS1dvWPy-hsFw4i/view?usp=sharing)
 
 ⚡ Fun fact: **I've mastered traveling the world almost for free using points! Learn how at [flymile.pro](https://www.flymile.pro/).**
 
